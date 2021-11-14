@@ -2,5 +2,5 @@
 <img src=assets/tsp-ipparis.png>
 </p>
 
-# TSP Global Labs
+# TSP Global Laboratory course
 > Repository destined to contain different files related to the course throughout its development.
